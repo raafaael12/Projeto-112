@@ -1,0 +1,41 @@
+body{
+    width:100%;
+    min-height:100%;
+    background: linear-gradient(90deg,yellow 0%, red 100%);
+    display:inline;
+    justify-content: center;
+    align-items:center;
+    color: white
+}
+
+#fonte{
+    font-family: 'Josefin Sans', sans-serif;
+    display:flex;
+    justify-content: center;
+    font-size:50px
+}
+
+#botao{
+    color:white;
+    display:inline;
+    margin-left: 25px;
+    background-color:red;
+    font-size: 20px;
+    border-radius:10px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    padding:15px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.label{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+#tranquilo{
+    width: 50px;;
+    transform: rotate(270deg);
+}
+.emoji{
+    width :50px
+}
